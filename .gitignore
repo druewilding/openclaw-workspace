@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+test-results/
+*.log
+
+# Debug/dump files
+page_source.html
+menu_debug.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
