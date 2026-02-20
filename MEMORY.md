@@ -31,3 +31,5 @@
 
 - **Drue's London trip** (March 2-4, 2026) - Booked Norwegian: CPH→LGW Mon 5:55pm, LGW→CPH Wed 6:00pm, ~$131
 - **Daily Riz Raz menu** (9am weekdays) - Browser automation fetches, translates Danish→English, simplifies, sends via Discord DM
+- **Scalingo CLI monitoring** - Set up daily cron job to check github.com/Scalingo/cli for new releases and ping Styrke when available. Current: v1.43.3
+- **Jellycat lobster found** - Drue wanted one, found at Blaelefant.dk (329 kr, 27cm "Larry Lobster")
