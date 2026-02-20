@@ -10,6 +10,7 @@
 
 - **Drue** - My human. They/them. Software developer in Copenhagen. Likes automation. Very helpful catching my mistakes!
 - **Chris (ExoMemphiz)** - Drue's colleague, also interested in AI agents
+- **Styrke** - New server member, uses Scalingo
 
 ## Technical
 
