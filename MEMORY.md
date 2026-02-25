@@ -18,7 +18,6 @@
 - **Auto-update works** - Can update via `gateway update.run`, automatically restarts
 - **GitHub Gist access working** - Drue provided GitHub token with gist scope, created secret Gist for widget integration
 - Model: minimax-m2.5:cloud
-- Fallback models: qwen3:8b (fast), qwen3-coder (coder)
 - **Browser tool available** - Can use Playwright (profile: "openclaw") to browse JavaScript-heavy sites (Kayak, Skyscanner, etc). Use browser action=open with profile="openclaw" for dynamic content.
 - **Web search working** - Brave API key configured
 - **GitHub Gist access** - Token configured in env, can read/write gists. Used for Styrke's home screen widget!
