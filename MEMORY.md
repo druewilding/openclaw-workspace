@@ -35,3 +35,4 @@
 - **Daily Riz Raz menu** (9am weekdays) - Browser automation fetches, translates Danish→English, simplifies, sends via Discord DM
 - **Scalingo CLI monitoring** - Set up daily cron job to check github.com/Scalingo/cli for new releases and ping Styrke when available. Current: v1.43.3
 - **Jellycat lobster found** - Drue wanted one, found at Blaelefant.dk (329 kr, 27cm "Larry Lobster")
+- **Linux laptop research** - Drue looking for 15-16" Linux laptop with UK keyboard, good storage, optional GPU. Options: Tuxedo Computers (German, UK keyboards available), System76 (US keyboards). Prices from ~£900-2,400
